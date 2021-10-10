@@ -1,2 +1,2 @@
-![BACKEND_IMAGE](https://miro.medium.com/max/3000/1*Oy1b4KP1ByfZuSlqnIXOIA.jpeg)
+![BACKEND_IMAGE](https://codingthesmartway.com/wp-content/uploads/2019/01/mern_logo-400x292.png)
 # BACKEND_THA
