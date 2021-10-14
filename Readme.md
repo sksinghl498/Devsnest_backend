@@ -10,3 +10,4 @@
 | DAY6 |  Event loop and async programming |
 | DAY7 |  Express & Design System |
 | DAY8 |  Express Middileware |
+| DAY9 |  Sending Static Files |
