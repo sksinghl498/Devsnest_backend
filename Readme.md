@@ -6,6 +6,7 @@
 | DAY1 | SQL & Redis basics |
 | DAY2 |  Practice SQL & foreign keys |
 | DAY3 |  Practice Redis |
-| DAY4 |  CRUD with fs module |
-| DAY5 |  Event loop and async programming |
-
+| DAY5 |  CRUD with fs module |
+| DAY6 |  Event loop and async programming |
+| DAY7 |  Express & Design System |
+| DAY8 |  Express Middileware |
