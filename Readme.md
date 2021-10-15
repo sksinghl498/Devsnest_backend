@@ -11,3 +11,8 @@
 | DAY7 |  Express & Design System |
 | DAY8 |  Express Middileware |
 | DAY9 |  Sending Static Files |
+| DAY11 |  Authentication |
+| DAY12 |  Connecting Redis and postgres with express |
+| DAY13 |  Planning for E-commerce website |
+
+
