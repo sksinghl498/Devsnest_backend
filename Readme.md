@@ -14,5 +14,9 @@
 | DAY11 |  Authentication |
 | DAY12 |  Connecting Redis and postgres with express |
 | DAY13 |  Planning for E-commerce website |
+| DAY14 |  Connect frontend with APIs |
+| DAY15 | Implementing APIs (Pagination and Middle-man and SQL Injection) |
+| DAY16 | Implementing APIs (stream) |
+
 
 
