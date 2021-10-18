@@ -17,6 +17,10 @@
 | DAY14 |  Connect frontend with APIs |
 | DAY15 | Implementing APIs (Pagination and Middle-man and SQL Injection) |
 | DAY16 | Implementing APIs (stream) |
+| DAY17 | Implementing APIs ( payment) |
+| DAY18 |  Implementing APIs (Search) |
+| DAY20 |  Logging File |
+
 
 
 
