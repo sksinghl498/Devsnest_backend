@@ -20,6 +20,8 @@
 | DAY17 | Implementing APIs ( payment) |
 | DAY18 |  Implementing APIs (Search) |
 | DAY20 |  Logging File |
+| DAY21 | Alerting  |
+| DAY22 |  JDOC & Swagger|
 
 
 
